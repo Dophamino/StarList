@@ -5,9 +5,9 @@ import  javax.swing.*;
 public class Main {
 
     public static void main(String[] args) {
-        /*try {
+        try {
             UIManager.setLookAndFeel("javax.swing.plaf.nimbus.NimbusLookAndFeel");
-        } catch(Exception ignored){}*/
+        } catch(Exception ignored){}
         frmMain frmMain = new frmMain();
         frmMain.frmShow();
 

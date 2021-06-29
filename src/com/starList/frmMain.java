@@ -190,7 +190,7 @@ public class frmMain {
     }
 
     public void frmShow(){
-        String pass = "dpa666xxx";
+        String pass = "666";
         String input = JOptionPane.showInputDialog("Enter the password:");
         try {
             if (input.equals(pass)) {
